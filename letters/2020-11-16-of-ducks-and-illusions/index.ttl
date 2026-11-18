@@ -10,9 +10,12 @@
 <https://emsenn.net/letters/2020-11-16-of-ducks-and-illusions/>
   rdf:type schema:Article ;
   schema:url <https://emsenn.net/letters/2020-11-16-of-ducks-and-illusions/> ;
-  schema:name "2020-11-16, Of ducks and illusions" ;
+  schema:name "Of Ducks and Illusions" ;
+  schema:description "A reflection on personal decolonizing, Indigenous praxis, and Land Back through the story of Iktomi and the ducks." ;
   schema:datePublished "2020-11-16" ;
   schema:dateModified "2020-11-16" ;
-  emsenn:Mirrors "https://emsenn.substack.com/p/of-ducks-and-illusions" ;
+  schema:author "emsenn" ;
+  emsenn:Mirrors "https://emsenn.substack.com/p/of-ducks-and-illusions" , "https://digital-garden-pink-alpha.vercel.app/of-ducks-and-illusions/" ;
+  schema:keywords "LandBack" ;
   schema:identifier <https://emsenn.net/letters/2020-11-16-of-ducks-and-illusions/> .
 
