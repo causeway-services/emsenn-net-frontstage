@@ -8,10 +8,10 @@
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
 <https://emsenn.net/letters/>
-  rdf:type schema:Article ;
+  rdf:type schema:WebPage ;
   schema:url <https://emsenn.net/letters/> ;
-  schema:name "emsenn's Letters to the Web" ;
-  schema:datePublished "2025-04-01" ;
-  schema:dateModified "2025-04-01" ;
+  schema:name "Letters" ;
+  schema:datePublished "2023-12-01" ;
+  schema:dateModified "2023-12-01" ;
   schema:identifier <https://emsenn.net/letters/> .
 

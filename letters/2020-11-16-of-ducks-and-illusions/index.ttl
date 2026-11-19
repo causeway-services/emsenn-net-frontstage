@@ -16,6 +16,6 @@
   schema:dateModified "2020-11-16" ;
   schema:author "emsenn" ;
   emsenn:Mirrors "https://emsenn.substack.com/p/of-ducks-and-illusions" , "https://digital-garden-pink-alpha.vercel.app/of-ducks-and-illusions/" ;
-  schema:keywords "LandBack" ;
+  schema:keywords "land-back" ;
   schema:identifier <https://emsenn.net/letters/2020-11-16-of-ducks-and-illusions/> .
 

@@ -11,11 +11,11 @@
   rdf:type schema:Article ;
   schema:url <https://emsenn.net/letters/2023-12-01-getting-better/> ;
   schema:name "Getting Better" ;
-  schema:description "Looking toward tech tools to get better organized, the author reflects on how a disabling accident left them reactive rather than responsive, and describes adopting Todoist and business-productivity methods to rebuild an itinerary for liberation work." ;
+  schema:description "Looking toward tech tools to help get better" ;
   schema:datePublished "2023-12-01" ;
   schema:dateModified "2023-12-01" ;
   schema:author "emsenn" ;
   emsenn:Mirrors "https://emsenn.substack.com/p/getting-better" , "https://digital-garden-pink-alpha.vercel.app/getting-better/" ;
-  schema:keywords "organizing" , "disability" , "productivity" , "tools" , "todoist" , "letter" ;
+  schema:keywords "disability" , "organizing" , "productivity" , "todoist" , "tools" ;
   schema:identifier <https://emsenn.net/letters/2023-12-01-getting-better/> .
 
